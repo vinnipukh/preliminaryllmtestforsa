@@ -5,7 +5,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 # --- DOSYA ADLARI ---
 # (Eğer isimleri değiştirdiysen burayı düzelt)
 CSV_FILE = "TRSAv1_sample_3k.csv"
-JSON_FILE = "kumru2b_sonuclar.json"
+JSON_FILE = "gptoss20b_sonuclar.json"
 
 
 def raporla():
@@ -60,7 +60,7 @@ def raporla():
 
     # --- SONUÇLARI HESAPLA ---
     print("\n" + "=" * 40)
-    print(f"MODEL PERFORMANS RAPORU (Kumru 2B)")
+    print(f"MODEL PERFORMANS RAPORU (GPT-OSS-20B)")
     print("=" * 40)
 
     # Doğruluk Oranı

@@ -7,7 +7,7 @@ from tqdm import tqdm
 client = OpenAI(base_url="http://localhost:1234/v1", api_key="lm-studio")
 
 INPUT_FILE = "TRSAv1_sample_3k.csv"
-OUTPUT_FILE = "kumru2b_sonuclar.json"
+OUTPUT_FILE = "gptoss20b_sonuclar.json"
 
 # !!! BURAYA DİKKAT !!!
 # CSV dosyanı aç, yorumların olduğu sütunun başlığı neyse buraya aynısını yaz.
