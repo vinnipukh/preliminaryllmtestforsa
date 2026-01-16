@@ -5,7 +5,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 # --- DOSYA ADLARI ---
 # (Eğer isimleri değiştirdiysen burayı düzelt)
 CSV_FILE = "TRSAv1_sample_3k.csv"
-JSON_FILE = "gptoss20b_sonuclar.json"
+JSON_FILE = "qwen3-14b_sonuclar.json"
 
 
 def raporla():

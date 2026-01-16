@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="39899f77-492d-418c-81b0-544b8c6d2042" name="Changes" comment="yes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kumru2b_sonuclar.json" beforeDir="false" afterPath="$PROJECT_DIR$/results/kumru2b_sonuclar.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/results.py" beforeDir="false" afterPath="$PROJECT_DIR$/results.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testguy.py" beforeDir="false" afterPath="$PROJECT_DIR$/testguy.py" afterDir="false" />
     </list>
@@ -25,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vinnipukh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vinnipukh/preliminaryllmtestforsa&quot;,
+    &quot;accountId&quot;: &quot;90ea97dd-c170-4a26-b55b-b2822ccfa638&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -40,7 +51,7 @@
     &quot;Python.sampler.executor&quot;: &quot;Run&quot;,
     &quot;Python.testguy.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -76,6 +87,8 @@
       <workItem from="1768405957251" duration="6466000" />
       <workItem from="1768417516791" duration="137000" />
       <workItem from="1768427052425" duration="4933000" />
+      <workItem from="1768469728506" duration="502000" />
+      <workItem from="1768508597436" duration="9049000" />
     </task>
     <task id="LOCAL-00001" summary="yes">
       <option name="closed" value="true" />
@@ -99,13 +112,24 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="yes" />
     <option name="LAST_COMMIT_MESSAGE" value="yes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject$results.coverage" NAME="results Coverage Results" MODIFIED="1768433670191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/pythonProject$testguy.coverage" NAME="testguy Coverage Results" MODIFIED="1768429721650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$results.coverage" NAME="results Coverage Results" MODIFIED="1768523764583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$testguy.coverage" NAME="testguy Coverage Results" MODIFIED="1768510805992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$sampler.coverage" NAME="sampler Coverage Results" MODIFIED="1768411916898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
